@@ -1,7 +1,7 @@
 ### Создайте свой кастомный образ nginx на базе alpine. После запуска nginx должен
 ### отдавать кастомную страницу (достаточно изменить дефолтную страницу nginx)
 #### ССылка на репозиторий:
-	```https://hub.docker.com/r/ulibaka/nginx_first_image```
+```https://hub.docker.com/r/ulibaka/nginx_first_image```
 Dockerfile во вложении
 
 
